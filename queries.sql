@@ -1,7 +1,9 @@
 -- Database Queries
 
 -- Find all customers with postal code 1010
-
+    -- 1. Cactus Comidas para llevar
+    -- 2. Océano Atlántico Ltda.
+    -- 3. Rancho grande
 -- Find the phone number for the supplier with the id 11
 
 -- List first 10 orders placed, sorted descending by the order date
